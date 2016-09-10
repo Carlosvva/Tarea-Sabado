@@ -1,0 +1,19 @@
+body{
+	background-color: #F3F3F6;
+	display: block;
+}
+.Fuente{
+	font-family: monospace;
+	font-size: 20px;
+}
+.cont2{
+	background-color: #F3514F;
+}
+.contspace2{
+	margin-top: 5%;
+}
+.contfont2{
+	font-family:monospace;
+	font-size: 25px;
+	color: white;
+}
